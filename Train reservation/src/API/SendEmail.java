@@ -34,8 +34,8 @@ public class SendEmail implements Runnable{
 		// TODO Auto-generated method stub
 
         String host="smtp.gmail.com";
-        final String user="enset.tgv@gmail.com";
-        final String password="TGVTGVTGV";
+        final String user="*************"; //your mail
+        final String password="*********"; //your password
 
         String to = Email;
 
@@ -98,7 +98,7 @@ public class SendEmail implements Runnable{
 		    JOptionPane.showMessageDialog(
 				    null, 
 				    "Merci pour votre Reservation,\n"
-				    + "Une ticket a été envoyé sur votre boite email", 
+				    + "Une ticket a Ã©tÃ© envoyÃ© sur votre boite email", 
 				    "information",
 				    JOptionPane.INFORMATION_MESSAGE);
 
