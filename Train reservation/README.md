@@ -1,0 +1,1 @@
+The train ticket Reservation system is a desktop application. It was developed using JAVA for programming and MySQL database for data storage. This application is a train travel booking application, which is able to book national and international trips in a few simple steps and at the best price.
